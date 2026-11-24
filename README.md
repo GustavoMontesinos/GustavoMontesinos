@@ -2,7 +2,7 @@
 
 # Gustavo Montesinos
 
-### AI infrastructure · Agentic systems · Platform engineering
+**AI infrastructure · Agentic systems · Platform engineering**
 
 **I build the systems that bring AI from a model endpoint to a reliable, usable platform.**
 
@@ -27,6 +27,19 @@ I enjoy working across the stack—from an API or evaluation harness down to a c
           ↓                       ↓                       ↓
   evaluation & safety     platform & automation    observability & reliability
 ```
+
+## 💼 Experience at Telconet
+
+**Junior Engineer — Platform & AI Infrastructure** · 2024–present
+
+At Telconet, I work across the lifecycle of AI and platform services, from architecture and implementation to deployment and operations. My experience includes:
+
+- Building agent frameworks and MCP tools that connect AI workflows with services and data.
+- Designing self-hosted model-serving and retrieval systems, including model gateways and RAG pipelines.
+- Developing backend services and SDKs, and delivering them through automated CI/CD and Kubernetes-based GitOps.
+- Improving reliability through observability, performance testing, security practices, and recovery planning.
+
+The descriptions above focus on my engineering work and omit internal project names, customer information, infrastructure details, and business metrics.
 
 ## 🧭 What I build
 
@@ -137,12 +150,18 @@ Identity and access, secrets, software supply-chain security, network automation
 - **Design for safe operation:** prefer clear boundaries, least privilege, and reproducible delivery.
 - **Keep systems understandable:** favor explicit interfaces, practical automation, and maintainable architecture.
 
-## 🎓 Background
+## 🎓 Education & credentials
 
-🎓 **M.Sc. in Artificial Intelligence** — Universidad Internacional de La Rioja  
-📡 **B.Eng. in Telecommunications Engineering** — Universidad Técnica de Ambato  
-🔐 **Certificate of Cloud Security Knowledge (CCSK)** — Cloud Security Alliance  
-🌍 **Languages:** Spanish (native) · English (C2)
+**Master of Science in Artificial Intelligence**  
+Universidad Internacional de La Rioja (UNIR), Spain · 2022–2024
+
+**Bachelor of Engineering in Telecommunications Engineering**  
+Universidad Técnica de Ambato, Ecuador · 2018–2022
+
+**Certificate of Cloud Security Knowledge (CCSK)**  
+Cloud Security Alliance
+
+**Languages:** Spanish (native) · English (C2, EF SET)
 
 ---
 
